@@ -65,16 +65,7 @@ export default function LoginPage() {
         return;
       }
 
-      // Check for 2FA
-      if (result?.requires_2fa) {
-        toast.info("2FA code sent to your email");
-        setTimeout(() => {
-          router.push(`/verify-2fa?email=${encodeURIComponent(data.email)}`);
-        }, 1500);
-        return;
-      }
-
-      // Normal login - cookie is set by backend
+      // Login - cookie is set by backend
       toast.success("Login successful");
 
       // Redirect based on KYC status
