@@ -85,60 +85,55 @@ const Footer = () => {
         <div className="mt-8 border-t border-[var(--border)] pt-8">
           <div className="space-y-4 text-xs leading-relaxed text-[var(--foreground-muted)]">
             <p>
-              Disclaimer ScopsTrade (Europe) Ltd., a Financial Services Company
-              authorised and regulated by the Cyprus Securities Exchange
-              Commission (CySEC) under the license # 109/10. Registered in
-              Cyprus under Company No. HE 200595. Registered Office: 4 Profiti
-              Ilia Str., Kanika Business Centre, 7th floor, Germasogeia, 4046,
-              Limassol, Cyprus. ScopsTrade (UK) Ltd, a Financial Services
-              Company authorised and regulated by the Financial Conduct
-              Authority (FCA) under the license FRN 583263. Registered Office:
-              24th floor, One Canada Square, Canary Wharf, London E14 5AB.
-              ScopsTrade (USA) Ltd, a financial company authorised and regulated
-              by SEC; CRD 298461. API Level 2 Securities and Investments
-              Commission on Futures and Investments; Commission registered under
-              Financial Services License 491139. Registered Office: Level 3, 60
-              Castlereagh Street, Sydney NSW 2000, Australia. ScopsTrade (ME)
-              Limited, is licensed and regulated by the Abu Dhabi Global Market
-              (&ldquo;ADGM&rdquo;)&apos;s Financial Services Regulatory Authority (&ldquo;FSRA&rdquo;) as an
-              Authorised Person to conduct the Regulated Activities of (a)
-              Dealing in Investments as Principal (Matched), (b) Arranging Deals
-              in Investments, (c) Providing Custody, (d) Arranging Custody and
-              (e) Managing Assets (under Financial Services Permission Number
-              220073) under the Financial Services and Market Regulations 2015
-              (&ldquo;FSMR&rdquo;). Its registered office and its principal place of
-              business is at Office 207 and 208, 15th Floor Floor, Al Sarab
-              Tower, ADGM Square, Al Maryah Island, Abu Dhabi, United Arab
-              Emirates (&ldquo;UAE&rdquo;). Clients who are tax residents of Finland may be
-              subject to Finnish income taxes on income (profits) and assets in
-              accordance with applicable Finnish tax laws.
+              Disclaimer: SCOP VENTURES, LLC ( CRD # 331287/SEC#:802-130592 ), a
+              Financial Services Company authorised and regulated by the
+              Securities and Exchange Commission (SEC) and registered with the
+              Financial Industry Regulatory Authority (FINRA) under the above
+              referenced registration numbers. SCOP VENTURES, LLC is a duly
+              incorporated limited liability company operating as a licensed
+              investment and social trading platform, providing access to global
+              financial markets including equities, commodities, currencies,
+              indices, and digital assets. SCOP VENTURES, LLC operates across
+              multiple jurisdictions in accordance with applicable securities
+              laws and financial services regulations, offering its products and
+              services to eligible clients in jurisdictions where such services
+              are permitted by law. The company maintains its principal place of
+              business in the United States and operates internationally through
+              its affiliates and correspondent entities, all of which are
+              subject to the oversight and regulatory framework established by
+              the relevant authorities in their respective regions. SCOP
+              VENTURES, LLC is committed to full regulatory compliance and the
+              protection of its clients&apos; interests at all times. Clients who
+              are tax residents of certain jurisdictions may be subject to local
+              income taxes on income (profits) and assets in accordance with
+              applicable tax laws in their country of residence.
             </p>
             <p>
               Past performance is not an indication of future results. You
               should seek advice from an independent and suitably licensed
               financial advisor and ensure that you have the risk appetite,
               relevant experience and knowledge before you decide to trade.
-              Under no circumstances shall ScopsTrade have any liability to any
+              Under no circumstances shall SCOP VENTURES, LLC have any liability to any
               person or entity for any loss or damage in whole or part caused
               by, resulting from, or relating to any transactions related to
               Stock and options investments are risky and do not benefit from
               the protections available to clients receiving MiFID regulated
               investment services for dispute resolution. Trading with
-              ScopsTrade by following and/or copying or replicating the trades
+              SCOP VENTURES, LLC by following and/or copying or replicating the trades
               of other traders involves a high level of risks, even when
               following and/or copying or replicating the top-performing
               traders. Such risks include the risk that you may be
               following/copying the trading decisions of possibly inexperienced
               or unprofessional traders, or traders whose ultimate purpose or
               intention, or financial status may differ from yours. Past
-              performance of a ScopsTrade Community Member is not a reliable
-              indicator of his future performance. Content on ScopsTrade&apos;s
+              performance of a SCOP VENTURES, LLC Community Member is not a reliable
+              indicator of his future performance. Content on SCOP VENTURES, LLC&apos;s
               social trading platform is generated by members of its community
               and does not contain advice or recommendations by or on behalf of
-              ScopsTrade- Your Social Investment Network.
+              SCOP VENTURES, LLC- Your Social Investment Network.
             </p>
             <p className="pt-4">
-              Copyright &copy; 2006-2026 ScopsTrade - Your Social Investment Network,
+              Copyright &copy; 2006-2026 SCOP VENTURES, LLC - Your Social Investment Network,
               All rights reserved.
             </p>
           </div>
