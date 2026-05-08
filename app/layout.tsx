@@ -34,6 +34,29 @@ export const metadata: Metadata = {
     "trade copying",
     "ScopTrade",
   ],
+  openGraph: {
+    type: "website",
+    url: "https://scopstrade.com",
+    siteName: "ScopTrade",
+    title: "ScopTrade - Copy Futures, Options & Contracts with Precision",
+    description:
+      "Mirror real-time stock and options trades from top-performing traders. Precision, flexibility, and transparency straight to your fingertips.",
+    images: [
+      {
+        url: "https://scopstrade.com/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "ScopTrade - Social Copy Trading Platform",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "ScopTrade - Copy Futures, Options & Contracts with Precision",
+    description:
+      "Mirror real-time stock and options trades from top-performing traders. Precision, flexibility, and transparency straight to your fingertips.",
+    images: ["https://scopstrade.com/og-image.png"],
+  },
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
